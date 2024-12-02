@@ -1,0 +1,5 @@
+/**
+ * Checks if a 2D matrix is a magic square.
+ * @param matrix The input 2D matrix.
+ * @return True if the matrix is a magic square, false otherwise.
+ */
